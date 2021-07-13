@@ -1,0 +1,55 @@
+LOGIN PENGGUNA
+1. AKUN ADMIN
+username : admin
+password : 12345678
+
+2. AKUN MANAJEMEN
+username : aldi
+password : aldi
+
+
+AKTOR
+1. Administrator
+2. Manajemen
+
+
+HAK AKSES
+1. Administrator dapat mengelola seluruh data (CREATE, READ, UPDATE, DELETE)
+2. Manajemen dapat melihat & mengelola:
+- TRANSAKSI & HUTANG PIUTANG (CREATE, READ, UPDATE, DELETE)
+- KATEGORI, PRODUK/BARANG, REKENING & CETAK LAPORAN (READ)
+
+
+LAPORAN (custom tanggal, mingguan, bulanan, tahunan)
+1. Filter per periode
+2. Filter per kategori
+3. Cetak laporan:
+- Langsung via printer
+- Convert to file PDF
+
+
+FITUR UMUM & DASHBOARD
+1. Pemasukan Hari Ini
+2. Pemasukan Bulan Ini
+3. Pemasukan Tahun Ini
+4. Seluruh Pemasukan
+5. Pengeluaran Hari Ini
+6. Pengeluaran Bulan Ini
+7. Pengeluaran Tahun Ini
+8. Seluruh Pengeluaran
+9. Grafik Data Pemasukan & Pengeluaran Per Bulan
+10. Grafik Data Pemasukan & Pengeluaran Per Tahun
+11. Cetak Laporan ke Format File PDF
+12. Cetak Laporan Langsung melalui Printer
+
+
+PENGOLAHAN DATA (CREATE, READ, UPDATE, DELETE)
+1. Kategori Transaksi Keuangan
+2. Nama Produk/Barang
+3. Transaksi Pemasukan & Pengeluaran
+4. Catatan Hutang
+5. Catatan Piutang
+6. Data Akun Bank
+7. Data Pengguna
+8. Data Laporan
+9. Ganti Password
